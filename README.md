@@ -1,5 +1,9 @@
 # Voice-Assistant-using-Python
 
+## Instructions:
+* Install all the required modules mentioned 
+* Run speech.py
+
 ## Capabilities
 * Detects number of Faces from an image.
 * Opens any website in the browser.
